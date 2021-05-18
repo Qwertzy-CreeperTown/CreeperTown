@@ -1,20 +1,20 @@
 ---
-name: Feature request
-about: Suggest something for Creeper Town
-title: "[SUGGESTION] "
-labels: enhancement
+name: Qwertzy
+about: You can loop discs and/or have a jukebox playlist. (in order to play said song, you would need to have the disc/
+title: "[Custom Jukeboxes] "
+labels: Discs
 assignees: larssieboy18
 
 ---
 
 **Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+I want to loop a disc but i can't.
 
 **Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+Custom jukebox settings.
 
 **Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+Loop discs only.
 
 **Additional context**
-Add any other context or screenshots about the feature request here.
+Can't make a loop disc for a future shop on Creeper Town.
